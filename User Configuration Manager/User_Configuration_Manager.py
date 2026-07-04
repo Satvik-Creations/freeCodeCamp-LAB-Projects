@@ -7,8 +7,8 @@ def add_setting(settings_dict,my_tup):
     settings_dict[key] = value
     return (f"Setting '{key}' added with value '{value}' successfully!")
     
-test_settings = {"Name":"Steve"`}
-``
+test_settings = {"Name":"Steve"}
+
 def update_setting(settings_dict,my_tup):
     key,value = my_tup
     key = key.lower()
