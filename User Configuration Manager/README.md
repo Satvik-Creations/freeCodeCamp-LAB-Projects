@@ -107,7 +107,7 @@ The solution successfully passes all required freeCodeCamp tests.
 
 The original project requirements and user stories are included below.
 
-![Project Manual](User_Configuration_Manager_Manual.png)
+![Project Manual](User_Configuration_Manager_Instructions.png)
 
 ---
 
